@@ -1,0 +1,3 @@
+Hi this is sample file.
+To test the stream task,
+it is just created.
